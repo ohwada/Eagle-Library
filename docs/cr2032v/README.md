@@ -1,7 +1,9 @@
-ESP8266 - Eagle Library
+CR2032 - Eagle Library
 ===============
 
-[ESP-WROOM-02](http://espressif.com/en/products/wroom/) is WiFi Module using ESP8266 chipset of Espressif<br/>
-[CEREVO](http://cerevo.shop-pro.jp/?pid=91592223) sales this WiFi modue and breakout board. <br/>
+Coin Battery Case
 
-<img src="https://raw.githubusercontent.com/ohwada/Eagle-Library/master/docs/ESP8266/esp8266_cerevo_sym.png" width="200" /> <img src="https://raw.githubusercontent.com/ohwada/Eagle-Library/master/docs/ESP8266/esp8266_cerevo_pkg.png" width="200" />
+### CH224-2032
+[CH224-2032](http://www.comf-hk.com/zcart/index.php?main_page=product_info&products_id=168) - COMFORTABLE ELECTRONIC
+
+<img src="https://raw.githubusercontent.com/ohwada/Eagle-Library/master/docs/cr2032v/ch224-2032-sym.png" width="200" /> <img src="https://raw.githubusercontent.com/ohwada/Eagle-Library/master/docs/cr2032v/ch224-2032-pkg.png" width="200" />
