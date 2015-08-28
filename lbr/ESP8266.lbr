@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.05" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.025" altunitdist="inch" altunit="inch"/>
+<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="yes"/>
@@ -58,7 +58,7 @@
 <library>
 <packages>
 <package name="CEREVO-PKG">
-<description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
+<description>&lt;a href="http://cerevo.shop-pro.jp/?pid=91592223" target="_blank"&gt;ESP-WROOM-02 - CEREVO Breakout&lt;/a&gt;</description>
 <wire x1="12.7" y1="-12.7" x2="12.7" y2="12.7" width="0.1524" layer="21"/>
 <pad name="1" x="-11.43" y="10.16" drill="0.8128" shape="long"/>
 <pad name="2" x="-11.43" y="7.62" drill="0.8128" shape="long"/>
@@ -93,6 +93,7 @@
 </packages>
 <symbols>
 <symbol name="CEREVO-SYM">
+<description>&lt;a href="http://cerevo.shop-pro.jp/?pid=91592223" target="_blank"&gt;ESP-WROOM-02 - CEREVO Breakout&lt;/a&gt;</description>
 <wire x1="-10.16" y1="12.7" x2="-10.16" y2="-12.7" width="0.254" layer="94"/>
 <wire x1="-10.16" y1="-12.7" x2="10.16" y2="-12.7" width="0.254" layer="94"/>
 <wire x1="10.16" y1="-12.7" x2="10.16" y2="12.7" width="0.254" layer="94"/>
@@ -145,7 +146,7 @@
 </symbols>
 <devicesets>
 <deviceset name="ESP8266" prefix="IC" uservalue="yes">
-<description>&lt;b&gt;Dual In Line / Socket&lt;/b&gt;</description>
+<description>&lt;a href="http://cerevo.shop-pro.jp/?pid=91592223" target="_blank"&gt;ESP-WROOM-02 - CEREVO Breakout&lt;/a&gt;</description>
 <gates>
 <gate name="G$1" symbol="CEREVO-SYM" x="0" y="0"/>
 </gates>
