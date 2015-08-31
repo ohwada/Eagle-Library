@@ -7,7 +7,7 @@ https://github.com/ohwada/Eagle-Library/tree/master/docs/RN42 <br/>
 
 ### WiFi Module - Espressif ESP8266
 https://github.com/ohwada/Eagle-Library/tree/master/docs/ESP8266 <br/>
-<img src="https://raw.githubusercontent.com/ohwada/Eagle-Library/master/docs/ESP8266/esp8266_cerevo_pkg.png" width="200" />
+<img src="https://raw.githubusercontent.com/ohwada/Eagle-Library/master/docs/ESP8266/esp8266_cerevo_pkg.png" width="170" />
 
 ### LED 7seg - Samkwang SND2537
 https://github.com/ohwada/Eagle-Library/tree/master/docs/led-7seg-samkwang <br/>
